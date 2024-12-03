@@ -4,7 +4,7 @@ Objetivo do Projeto: Projeto apresentado como nota da unidade 10 do projeto Rest
 
 Instruções para Execução do Código: O banco de dados abordado se encontra em: https://www.kaggle.com/datasets/arbazkhan971/cuhk-face-sketch-database-cufs
 Após baixá-lo, e salvá-lo no drive pessoal, deve-se dividir o arquivo "photos" em duas pastas diferentes (recomendado: male, female)
-Assim, executando todas as células encontradas no código, na direção na qual aparecem (de cima para baixo), e, comjuntamente, importando as livrarias necessárias do Python, deve-se ser possível acessar os mesmos resultados descritos no documento em pdf.
+Assim, executando todas as células encontradas no código, na direção na qual aparecem (de cima para baixo), e, conjuntamente, importando as livrarias necessárias do Python, deve-se ser possível acessar os mesmos resultados descritos no documento em pdf.
 
 Principais Conclusões e Considerações: O primeiro modelo gerado foi o mais bem sucedido, tendo uma acurácia de mais de 70% em classificar as imagnes.
 Os dois outros modelos, embora tenham tido uma boa acurácia, também apresentaram alta perda ou ainda um custo computacional elevado.
