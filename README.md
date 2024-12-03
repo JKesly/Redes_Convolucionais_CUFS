@@ -11,3 +11,5 @@ Os dois outros modelos, embora tenham tido uma boa acurácia, também apresentar
 As matrizes de confusão geradas revelam que todos os modelos acertam mais em identificar quando a foto não se trata de uma homem ou de uma mulher cirretamente, do que acertar com exatidão quando é realmente uma pessoa do sexo masculino ou feminino. 
 
 Uma hipótese para isso é que a base de dados é pequena, dispondo de apenas 188 imagens - das quais 133 são homens e 55 são melhures, todos da mesma etnia.
+
+Alunas: Clara Raquel Santos e Jemyma Kesly M. da Silva
